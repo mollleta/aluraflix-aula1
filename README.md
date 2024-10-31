@@ -1,6 +1,24 @@
 # aluraflix-aula1
-<header>ALURAFLIX</header>
+header>ALURAFLIX</header>
 
 
 <h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
 #homem-aranha
+<header>ALURAFLIX</header>
+
+
+<h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
+<p>#homem-aranha</p>
+
+
+<body>
+
+    <header>ALURAFLIX</header>
+    
+    <h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
+<p>#homem-aranha</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=c93nZtO1DTNYueO4" title="YouTube video player" frameborder="0" allow="accelerometer;
+
+    
+<body>
